@@ -148,4 +148,6 @@ Feedstock Maintainers
 =====================
 
 * [@kratsg](https://github.com/kratsg/)
+* [@marianaiv](https://github.com/marianaiv/)
+* [@zlmarshall](https://github.com/zlmarshall/)
 
