@@ -147,5 +147,8 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@Soap2G](https://github.com/Soap2G/)
 * [@kratsg](https://github.com/kratsg/)
+* [@marianaiv](https://github.com/marianaiv/)
+* [@zlmarshall](https://github.com/zlmarshall/)
 
