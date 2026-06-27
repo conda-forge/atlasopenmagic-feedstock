@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: atlasopenmagic
-  version: "1.9.0"
+  version: "1.9.1"
   python_min: '3.10'
 
 package:
@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/${{ name }}-${{ version }}.tar.gz
-  sha256: 250b414bb36e277b9864450b251e27cbab01531ec407f6acdbaee5839ecf239f
+  sha256: 15d4a6ac7b0b611c8aaf9e10a8997486efe991a7c3f8666094df13f90322fed6
 
 build:
   number: 0
